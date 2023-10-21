@@ -18,5 +18,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("abc");
         System.out.println("aaas");
         System.out.println("xcxcxcx");
+        System.out.println("xcxcxcx");
+        System.out.println("xcxcxcx");
+        System.out.println("xcxcxcx");
     }
 }
